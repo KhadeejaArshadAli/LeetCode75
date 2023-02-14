@@ -5,4 +5,6 @@
 # Day 3: Isomorphic Strings
    This code will determine whether the two given strings are isomorphic or not
 # Day 4: Subsequence Strings
-  This code will check whether are two given string are subsequent or nor
+  This code will check whether are two given string are subsequent or not
+# Day 5: Merge 
+  This code enable us to merge two sorted linked list and return the head of the final list
