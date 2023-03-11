@@ -8,3 +8,5 @@
   This code will check whether are two given string are subsequent or not
 # Day 5: Merge 
   This code enable us to merge two sorted linked list and return the head of the final list
+# Day 6: Reverse
+ Reserves a linked list and display it.
